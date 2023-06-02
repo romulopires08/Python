@@ -1,4 +1,3 @@
-# Otimization graph producing project
 # With this powerful tool, I have greatly optimized my work in data analysis within my lab. The output graphs generated are now ready for publication in scientific papers.
 ![image](https://github.com/romulopires08/python/assets/105392322/2f9d0209-73c7-476b-b955-cf058c97ce1b)
 
