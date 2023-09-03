@@ -1,7 +1,7 @@
 # Packages / libraries - Math
 import os #provides functions for interacting with the operating system
-import numpy as np # processamento de grandes, multi-dimensionais arranjos e matrizes, juntamente com uma grande coleção de funções matemáticas de alto nível para operar sobre estas matrizes
-import pandas as pd # oferece estruturas e operações para manipular tabelas numéricas e séries temporais
+import numpy as np # perform a wide variety of mathematical operations on arrays
+import pandas as pd # analyzing, cleaning, exploring, and manipulating data
 #from pathlib import Path
 #import xlwings as xw
 #import glob
