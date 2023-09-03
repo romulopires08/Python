@@ -1,4 +1,7 @@
 # The Lorenz Map is a powerful tool for analyzing the behavior of oscillations, particularly to determine if they exhibit chaotic behavior. 
+![image](https://github.com/romulopires08/python/assets/105392322/5cc741e2-a362-4286-8001-6503f64fb0f0)
+
+
 # Its objective is to obtain the maximum values over time and create a scatter plot of Max versus Max+n. 
 # If the resulting graph shows a single or two well-defined points, or a set of three points, the conclusion is that the oscillation is regular.
 ![image](https://github.com/romulopires08/python/assets/105392322/9436dbb2-4f1e-472f-83f3-4f9a13c5e405)
